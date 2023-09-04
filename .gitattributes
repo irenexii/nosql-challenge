@@ -1,3 +1,0 @@
-12 filter=lfs diff=lfs merge=lfs -text
-vbachallenge filter=lfs diff=lfs merge=lfs -text
-12/* filter=lfs diff=lfs merge=lfs -text
